@@ -1,0 +1,21 @@
+#widget{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-call{
+    background-color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2WSpx;
+    border-color: cadetblue;
+    width: 80%;
+    height: 20%;
+}
